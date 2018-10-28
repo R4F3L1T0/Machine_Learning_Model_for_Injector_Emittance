@@ -18,7 +18,8 @@ Folders
 
 - a folder called **results** where the performance of the ML model will be saved after you run it both with the TensorBoard callbacks and a copy of the model with its own weights.
 
-- the folder **my_results** contain the best results I managed to get with the given dataset. It's here so you can compare your model with mine. Of course, if manage to get an improvement, feel free to contact me or to add a branch.
+<!--- - the folder **my_results** contain the best results I managed to get with the given dataset. It's here so you can compare your model with mine. Of course, if manage to get an improvement, feel free to contact me or to add a branch.
+--->
 
 The study I performed was a really pioneering one for the _LCLS_ community, since for the first time someone tried to predict emittance values starting from Injector settings.
 Given the hardness of the problem we are very happy with the results we got.
