@@ -7,16 +7,17 @@ In this repository you will find:
 
 Files
 
-   - a detailed Report (Report_Raffaele_Campanile_SLAC.pdf) describing each step of the work, from the gathering of the data to the ML model results.
+   - a detailed Report (**Report_Raffaele_Campanile_SLAC.pdf**) describing each step of the work, from the gathering of the data to the ML model results.
 
-   - a, very ugly, Final Presentation (Final_Talk_Presentation.pptx) describing the main ideas and the results obtained in this work.
+   - a, very ugly, Final Presentation (**Final_Talk_Presentation.pptx**) describing the main ideas and the results obtained in this work.
 
 Folders
 
-   - a folder containing the python code (code) for the ML model (neural_network.py) and for a simple plotter tool (results_plotter.py) to compare the ML model performance with the expected results.
+   - a folder containing the python code (**code**) for the ML model (**neural_network.py**) and for a simple plotter tool (**results_plotter.py**) to compare the ML model performance with the expected results.
 
-   - a folder containing the data (data), downloaded from the _LCLS_ archive and already prepared to be analyzed.
+   - a folder containing the data (**data**), downloaded from the _LCLS_ archive and already prepared to be analyzed.
 
-   - a folder called results where the performance of the ML model will be saved after you run it both with the TensorBoard callbacks and a copy of the model with its own weights.
+   - a folder called **results** where the performance of the ML model will be saved after you run it both with the TensorBoard callbacks and a copy of the model with its own weights.
 
-The study I performed was a really pioneering one for the _LCLS_ community, since for the first time someone tried to predict emittance values starting from Injector settings. Given the hardness of the problem we are very happy with the results we got.
+The study I performed was a really pioneering one for the _LCLS_ community, since for the first time someone tried to predict emittance values starting from Injector settings.
+Given the hardness of the problem we are very happy with the results we got.
