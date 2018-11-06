@@ -1,7 +1,7 @@
 # Machine Learning Model for Injector Emittance
 ### This repository contains the work I did in collaboration with the _LCLS_ (Linac Coherent Light Source) group at SLAC (Stanford Linear Accelerator Center) as Summer Intern in 2018.
 
-I contribuited to the program to tune the world's first X-ray laser using advanced Machine Learning (ML) techniques. The people I collaborated with are: Daniel Ratner, Auralee Edelen, Dorian Bohler and many others.
+I contributed to the program to tune the world's first X-ray laser using advanced Machine Learning (ML) techniques. The people I collaborated with are: Daniel Ratner, Auralee Edelen, Dorian Bohler and many others.
 
 In this repository you will find:
 
